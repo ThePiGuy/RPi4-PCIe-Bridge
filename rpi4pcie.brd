@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="9.4.1">
+<eagle version="9.6.1">
 <drawing>
 <settings>
-<setting alwaysvectorfont="yes"/>
+<setting alwaysvectorfont="no"/>
 <setting keepoldvectorfont="yes"/>
 <setting verticaltext="up"/>
 </settings>
@@ -384,72 +384,26 @@ Please make sure your boards conform to these design rules.</description>
 </pass>
 </autorouter>
 <elements>
-<element name="PAD1" library="zak" package="PAD-QFN-0.4" value="PADQFN-0.4" x="0.73" y="10.2" smashed="yes" rot="MR90"/>
-<element name="PAD2" library="zak" package="PAD-QFN-0.4" value="PADQFN-0.4" x="0.73" y="9.8" smashed="yes" rot="MR90"/>
-<element name="PAD3" library="zak" package="PAD-QFN-0.4" value="PADQFN-0.4" x="0.73" y="9.4" smashed="yes" rot="MR90"/>
-<element name="PAD4" library="zak" package="PAD-QFN-0.4" value="PADQFN-0.4" x="0.73" y="9" smashed="yes" rot="MR90"/>
-<element name="PAD5" library="zak" package="PAD-QFN-0.4" value="PADQFN-0.4" x="0.73" y="8.6" smashed="yes" rot="MR90"/>
-<element name="PAD6" library="zak" package="PAD-QFN-0.4" value="PADQFN-0.4" x="0.73" y="8.2" smashed="yes" rot="MR90"/>
-<element name="PAD7" library="zak" package="PAD-QFN-0.4" value="PADQFN-0.4" x="0.73" y="7.8" smashed="yes" rot="MR90"/>
-<element name="PAD8" library="zak" package="PAD-QFN-0.4" value="PADQFN-0.4" x="0.73" y="7.4" smashed="yes" rot="MR90"/>
-<element name="PAD9" library="zak" package="PAD-QFN-0.4" value="PADQFN-0.4" x="0.73" y="7" smashed="yes" rot="MR90"/>
-<element name="PAD10" library="zak" package="PAD-QFN-0.4" value="PADQFN-0.4" x="0.73" y="6.6" smashed="yes" rot="MR90"/>
-<element name="PAD11" library="zak" package="PAD-QFN-0.4" value="PADQFN-0.4" x="0.73" y="6.2" smashed="yes" rot="MR90"/>
-<element name="PAD12" library="zak" package="PAD-QFN-0.4" value="PADQFN-0.4" x="0.73" y="5.8" smashed="yes" rot="MR90"/>
-<element name="PAD13" library="zak" package="PAD-QFN-0.4" value="PADQFN-0.4" x="0.73" y="5.4" smashed="yes" rot="MR90"/>
-<element name="PAD14" library="zak" package="PAD-QFN-0.4" value="PADQFN-0.4" x="0.73" y="5" smashed="yes" rot="MR90"/>
-<element name="PAD15" library="zak" package="PAD-QFN-0.4" value="PADQFN-0.4" x="0.73" y="4.6" smashed="yes" rot="MR90"/>
-<element name="PAD16" library="zak" package="PAD-QFN-0.4" value="PADQFN-0.4" x="0.73" y="4.2" smashed="yes" rot="MR90"/>
-<element name="PAD17" library="zak" package="PAD-QFN-0.4" value="PADQFN-0.4" x="0.73" y="3.8" smashed="yes" rot="MR90"/>
-<element name="PAD18" library="zak" package="PAD-QFN-0.4" value="PADQFN-0.4" x="2.8" y="0.73" smashed="yes" rot="MR0"/>
 <element name="PAD19" library="zak" package="PAD-QFN-0.4" value="PADQFN-0.4" x="3.2" y="3.1" smashed="yes" rot="MR0"/>
 <element name="PAD20" library="zak" package="PAD-QFN-0.4" value="PADQFN-0.4" x="3.6" y="3.1" smashed="yes" rot="MR0"/>
 <element name="PAD21" library="zak" package="PAD-QFN-0.4" value="PADQFN-0.4" x="4" y="3.1" smashed="yes" rot="MR0"/>
 <element name="PAD22" library="zak" package="PAD-QFN-0.4" value="PADQFN-0.4" x="4.4" y="3.1" smashed="yes" rot="MR0"/>
-<element name="PAD23" library="zak" package="PAD-QFN-0.4" value="PADQFN-0.4" x="4.8" y="0.73" smashed="yes" rot="MR0"/>
 <element name="PAD24" library="zak" package="PAD-QFN-0.4" value="PADQFN-0.4" x="5.2" y="3.1" smashed="yes" rot="MR0"/>
 <element name="PAD25" library="zak" package="PAD-QFN-0.4" value="PADQFN-0.4" x="5.6" y="3.1" smashed="yes" rot="MR0"/>
-<element name="PAD26" library="zak" package="PAD-QFN-0.4" value="PADQFN-0.4" x="6" y="0.73" smashed="yes" rot="MR0"/>
 <element name="PAD27" library="zak" package="PAD-QFN-0.4" value="PADQFN-0.4" x="6.4" y="3.1" smashed="yes" rot="MR0"/>
 <element name="PAD28" library="zak" package="PAD-QFN-0.4" value="PADQFN-0.4" x="6.8" y="3.1" smashed="yes" rot="MR0"/>
-<element name="PAD29" library="zak" package="PAD-QFN-0.4" value="PADQFN-0.4" x="7.2" y="0.73" smashed="yes" rot="MR0"/>
 <element name="PAD30" library="zak" package="PAD-QFN-0.4" value="PADQFN-0.4" x="7.6" y="3.1" smashed="yes" rot="MR0"/>
 <element name="PAD31" library="zak" package="PAD-QFN-0.4" value="PADQFN-0.4" x="8" y="3.1" smashed="yes" rot="MR0"/>
-<element name="PAD32" library="zak" package="PAD-QFN-0.4" value="PADQFN-0.4" x="8.4" y="0.73" smashed="yes" rot="MR0"/>
-<element name="PAD33" library="zak" package="PAD-QFN-0.4" value="PADQFN-0.4" x="8.8" y="0.73" smashed="yes" rot="MR0"/>
-<element name="PAD34" library="zak" package="PAD-QFN-0.4" value="PADQFN-0.4" x="9.2" y="0.73" smashed="yes" rot="MR0"/>
-<element name="PAD35" library="zak" package="PAD-QFN-0.4" value="PADQFN-0.4" x="11.27" y="3.8" smashed="yes" rot="MR90"/>
-<element name="PAD36" library="zak" package="PAD-QFN-0.4" value="PADQFN-0.4" x="11.27" y="4.2" smashed="yes" rot="MR90"/>
-<element name="PAD37" library="zak" package="PAD-QFN-0.4" value="PADQFN-0.4" x="11.27" y="4.6" smashed="yes" rot="MR90"/>
-<element name="PAD38" library="zak" package="PAD-QFN-0.4" value="PADQFN-0.4" x="11.27" y="5" smashed="yes" rot="MR90"/>
-<element name="PAD39" library="zak" package="PAD-QFN-0.4" value="PADQFN-0.4" x="11.27" y="5.4" smashed="yes" rot="MR90"/>
-<element name="PAD40" library="zak" package="PAD-QFN-0.4" value="PADQFN-0.4" x="11.27" y="5.8" smashed="yes" rot="MR90"/>
-<element name="PAD41" library="zak" package="PAD-QFN-0.4" value="PADQFN-0.4" x="11.27" y="6.2" smashed="yes" rot="MR90"/>
-<element name="PAD42" library="zak" package="PAD-QFN-0.4" value="PADQFN-0.4" x="11.27" y="6.6" smashed="yes" rot="MR90"/>
-<element name="PAD43" library="zak" package="PAD-QFN-0.4" value="PADQFN-0.4" x="11.27" y="7" smashed="yes" rot="MR90"/>
-<element name="PAD44" library="zak" package="PAD-QFN-0.4" value="PADQFN-0.4" x="11.27" y="7.4" smashed="yes" rot="MR90"/>
-<element name="PAD45" library="zak" package="PAD-QFN-0.4" value="PADQFN-0.4" x="11.27" y="7.8" smashed="yes" rot="MR90"/>
-<element name="PAD46" library="zak" package="PAD-QFN-0.4" value="PADQFN-0.4" x="11.27" y="8.2" smashed="yes" rot="MR90"/>
-<element name="PAD47" library="zak" package="PAD-QFN-0.4" value="PADQFN-0.4" x="11.27" y="8.6" smashed="yes" rot="MR90"/>
-<element name="PAD48" library="zak" package="PAD-QFN-0.4" value="PADQFN-0.4" x="11.27" y="9" smashed="yes" rot="MR90"/>
-<element name="PAD49" library="zak" package="PAD-QFN-0.4" value="PADQFN-0.4" x="11.27" y="9.4" smashed="yes" rot="MR90"/>
-<element name="PAD50" library="zak" package="PAD-QFN-0.4" value="PADQFN-0.4" x="11.27" y="9.8" smashed="yes" rot="MR90"/>
-<element name="PAD51" library="zak" package="PAD-QFN-0.4" value="PADQFN-0.4" x="11.27" y="10.2" smashed="yes" rot="MR90"/>
 <element name="PAD52" library="zak" package="PAD-QFN-0.4" value="PADQFN-0.4" x="9.2" y="10.9" smashed="yes" rot="MR0"/>
 <element name="PAD53" library="zak" package="PAD-QFN-0.4" value="PADQFN-0.4" x="8.8" y="10.9" smashed="yes" rot="MR0"/>
-<element name="PAD54" library="zak" package="PAD-QFN-0.4" value="PADQFN-0.4" x="8.4" y="13.27" smashed="yes" rot="MR0"/>
 <element name="PAD55" library="zak" package="PAD-QFN-0.4" value="PADQFN-0.4" x="8" y="10.9" smashed="yes" rot="MR0"/>
 <element name="PAD56" library="zak" package="PAD-QFN-0.4" value="PADQFN-0.4" x="7.6" y="10.9" smashed="yes" rot="MR0"/>
-<element name="PAD57" library="zak" package="PAD-QFN-0.4" value="PADQFN-0.4" x="7.2" y="13.27" smashed="yes" rot="MR0"/>
 <element name="PAD58" library="zak" package="PAD-QFN-0.4" value="PADQFN-0.4" x="6.8" y="10.9" smashed="yes" rot="MR0"/>
 <element name="PAD59" library="zak" package="PAD-QFN-0.4" value="PADQFN-0.4" x="6.4" y="10.9" smashed="yes" rot="MR0"/>
-<element name="PAD60" library="zak" package="PAD-QFN-0.4" value="PADQFN-0.4" x="6" y="13.27" smashed="yes" rot="MR0"/>
-<element name="PAD61" library="zak" package="PAD-QFN-0.4" value="PADQFN-0.4" x="5.6" y="13.27" smashed="yes" rot="MR0"/>
-<element name="PAD62" library="zak" package="PAD-QFN-0.4" value="PADQFN-0.4" x="5.2" y="13.27" smashed="yes" rot="MR0"/>
-<element name="PAD63" library="zak" package="PAD-QFN-0.4" value="PADQFN-0.4" x="4.8" y="13.27" smashed="yes" rot="MR0"/>
+<element name="PAD61" library="zak" package="PAD-QFN-0.4" value="PADQFN-0.4" x="5.6" y="11.27" smashed="yes"/>
+<element name="PAD62" library="zak" package="PAD-QFN-0.4" value="PADQFN-0.4" x="5.2" y="11.27" smashed="yes"/>
 <element name="PAD64" library="zak" package="PAD-QFN-0.4" value="PADQFN-0.4" x="4.4" y="10.9" smashed="yes" rot="MR0"/>
 <element name="PAD65" library="zak" package="PAD-QFN-0.4" value="PADQFN-0.4" x="4" y="10.9" smashed="yes" rot="MR0"/>
-<element name="PAD66" library="zak" package="PAD-QFN-0.4" value="PADQFN-0.4" x="3.6" y="13.27" smashed="yes" rot="MR0"/>
 <element name="PAD67" library="zak" package="PAD-QFN-0.4" value="PADQFN-0.4" x="3.2" y="10.9" smashed="yes" rot="MR0"/>
 <element name="PAD68" library="zak" package="PAD-QFN-0.4" value="PADQFN-0.4" x="2.8" y="10.9" smashed="yes" rot="MR0"/>
 <element name="PAD69" library="zak" package="PAD-QFN-0.4" value="PADQFN-0.4" x="2.8" y="11.7" smashed="yes" rot="MR0"/>

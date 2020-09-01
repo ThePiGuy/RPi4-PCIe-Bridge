@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="9.4.1">
+<eagle version="9.6.1">
 <drawing>
 <settings>
-<setting alwaysvectorfont="yes"/>
+<setting alwaysvectorfont="no"/>
 <setting keepoldvectorfont="yes"/>
 <setting verticaltext="up"/>
 </settings>
@@ -336,72 +336,26 @@
 </classes>
 <parts>
 <part name="U$3" library="microbuilder" deviceset="GND" device=""/>
-<part name="PAD1" library="zak" deviceset="PAD" device="QFN-0.4"/>
-<part name="PAD2" library="zak" deviceset="PAD" device="QFN-0.4"/>
-<part name="PAD3" library="zak" deviceset="PAD" device="QFN-0.4"/>
-<part name="PAD4" library="zak" deviceset="PAD" device="QFN-0.4"/>
-<part name="PAD5" library="zak" deviceset="PAD" device="QFN-0.4"/>
-<part name="PAD6" library="zak" deviceset="PAD" device="QFN-0.4"/>
-<part name="PAD7" library="zak" deviceset="PAD" device="QFN-0.4"/>
-<part name="PAD8" library="zak" deviceset="PAD" device="QFN-0.4"/>
-<part name="PAD9" library="zak" deviceset="PAD" device="QFN-0.4"/>
-<part name="PAD10" library="zak" deviceset="PAD" device="QFN-0.4"/>
-<part name="PAD11" library="zak" deviceset="PAD" device="QFN-0.4"/>
-<part name="PAD12" library="zak" deviceset="PAD" device="QFN-0.4"/>
-<part name="PAD13" library="zak" deviceset="PAD" device="QFN-0.4"/>
-<part name="PAD14" library="zak" deviceset="PAD" device="QFN-0.4"/>
-<part name="PAD15" library="zak" deviceset="PAD" device="QFN-0.4"/>
-<part name="PAD16" library="zak" deviceset="PAD" device="QFN-0.4"/>
-<part name="PAD17" library="zak" deviceset="PAD" device="QFN-0.4"/>
-<part name="PAD18" library="zak" deviceset="PAD" device="QFN-0.4"/>
 <part name="PAD19" library="zak" deviceset="PAD" device="QFN-0.4"/>
 <part name="PAD20" library="zak" deviceset="PAD" device="QFN-0.4"/>
 <part name="PAD21" library="zak" deviceset="PAD" device="QFN-0.4"/>
 <part name="PAD22" library="zak" deviceset="PAD" device="QFN-0.4"/>
-<part name="PAD23" library="zak" deviceset="PAD" device="QFN-0.4"/>
 <part name="PAD24" library="zak" deviceset="PAD" device="QFN-0.4"/>
 <part name="PAD25" library="zak" deviceset="PAD" device="QFN-0.4"/>
-<part name="PAD26" library="zak" deviceset="PAD" device="QFN-0.4"/>
 <part name="PAD27" library="zak" deviceset="PAD" device="QFN-0.4"/>
 <part name="PAD28" library="zak" deviceset="PAD" device="QFN-0.4"/>
-<part name="PAD29" library="zak" deviceset="PAD" device="QFN-0.4"/>
 <part name="PAD30" library="zak" deviceset="PAD" device="QFN-0.4"/>
 <part name="PAD31" library="zak" deviceset="PAD" device="QFN-0.4"/>
-<part name="PAD32" library="zak" deviceset="PAD" device="QFN-0.4"/>
-<part name="PAD33" library="zak" deviceset="PAD" device="QFN-0.4"/>
-<part name="PAD34" library="zak" deviceset="PAD" device="QFN-0.4"/>
-<part name="PAD35" library="zak" deviceset="PAD" device="QFN-0.4"/>
-<part name="PAD36" library="zak" deviceset="PAD" device="QFN-0.4"/>
-<part name="PAD37" library="zak" deviceset="PAD" device="QFN-0.4"/>
-<part name="PAD38" library="zak" deviceset="PAD" device="QFN-0.4"/>
-<part name="PAD39" library="zak" deviceset="PAD" device="QFN-0.4"/>
-<part name="PAD40" library="zak" deviceset="PAD" device="QFN-0.4"/>
-<part name="PAD41" library="zak" deviceset="PAD" device="QFN-0.4"/>
-<part name="PAD42" library="zak" deviceset="PAD" device="QFN-0.4"/>
-<part name="PAD43" library="zak" deviceset="PAD" device="QFN-0.4"/>
-<part name="PAD44" library="zak" deviceset="PAD" device="QFN-0.4"/>
-<part name="PAD45" library="zak" deviceset="PAD" device="QFN-0.4"/>
-<part name="PAD46" library="zak" deviceset="PAD" device="QFN-0.4"/>
-<part name="PAD47" library="zak" deviceset="PAD" device="QFN-0.4"/>
-<part name="PAD48" library="zak" deviceset="PAD" device="QFN-0.4"/>
-<part name="PAD49" library="zak" deviceset="PAD" device="QFN-0.4"/>
-<part name="PAD50" library="zak" deviceset="PAD" device="QFN-0.4"/>
-<part name="PAD51" library="zak" deviceset="PAD" device="QFN-0.4"/>
 <part name="PAD52" library="zak" deviceset="PAD" device="QFN-0.4"/>
 <part name="PAD53" library="zak" deviceset="PAD" device="QFN-0.4"/>
-<part name="PAD54" library="zak" deviceset="PAD" device="QFN-0.4"/>
 <part name="PAD55" library="zak" deviceset="PAD" device="QFN-0.4"/>
 <part name="PAD56" library="zak" deviceset="PAD" device="QFN-0.4"/>
-<part name="PAD57" library="zak" deviceset="PAD" device="QFN-0.4"/>
 <part name="PAD58" library="zak" deviceset="PAD" device="QFN-0.4"/>
 <part name="PAD59" library="zak" deviceset="PAD" device="QFN-0.4"/>
-<part name="PAD60" library="zak" deviceset="PAD" device="QFN-0.4"/>
 <part name="PAD61" library="zak" deviceset="PAD" device="QFN-0.4"/>
 <part name="PAD62" library="zak" deviceset="PAD" device="QFN-0.4"/>
-<part name="PAD63" library="zak" deviceset="PAD" device="QFN-0.4"/>
 <part name="PAD64" library="zak" deviceset="PAD" device="QFN-0.4"/>
 <part name="PAD65" library="zak" deviceset="PAD" device="QFN-0.4"/>
-<part name="PAD66" library="zak" deviceset="PAD" device="QFN-0.4"/>
 <part name="PAD67" library="zak" deviceset="PAD" device="QFN-0.4"/>
 <part name="PAD68" library="zak" deviceset="PAD" device="QFN-0.4"/>
 <part name="PAD69" library="zak" deviceset="PAD" device="QFN-0.4"/>
@@ -461,72 +415,26 @@
 <instance part="U$3" gate="G$1" x="10.16" y="5.08" smashed="yes">
 <attribute name="VALUE" x="8.636" y="2.54" size="1.27" layer="96"/>
 </instance>
-<instance part="PAD1" gate="G$1" x="12.7" y="58.42" smashed="yes" rot="R180"/>
-<instance part="PAD2" gate="G$1" x="12.7" y="55.88" smashed="yes" rot="R180"/>
-<instance part="PAD3" gate="G$1" x="12.7" y="53.34" smashed="yes" rot="R180"/>
-<instance part="PAD4" gate="G$1" x="12.7" y="50.8" smashed="yes" rot="R180"/>
-<instance part="PAD5" gate="G$1" x="12.7" y="48.26" smashed="yes" rot="R180"/>
-<instance part="PAD6" gate="G$1" x="12.7" y="45.72" smashed="yes" rot="R180"/>
-<instance part="PAD7" gate="G$1" x="12.7" y="43.18" smashed="yes" rot="R180"/>
-<instance part="PAD8" gate="G$1" x="12.7" y="40.64" smashed="yes" rot="R180"/>
-<instance part="PAD9" gate="G$1" x="12.7" y="38.1" smashed="yes" rot="R180"/>
-<instance part="PAD10" gate="G$1" x="12.7" y="35.56" smashed="yes" rot="R180"/>
-<instance part="PAD11" gate="G$1" x="12.7" y="33.02" smashed="yes" rot="R180"/>
-<instance part="PAD12" gate="G$1" x="12.7" y="30.48" smashed="yes" rot="R180"/>
-<instance part="PAD13" gate="G$1" x="12.7" y="27.94" smashed="yes" rot="R180"/>
-<instance part="PAD14" gate="G$1" x="12.7" y="25.4" smashed="yes" rot="R180"/>
-<instance part="PAD15" gate="G$1" x="12.7" y="22.86" smashed="yes" rot="R180"/>
-<instance part="PAD16" gate="G$1" x="12.7" y="20.32" smashed="yes" rot="R180"/>
-<instance part="PAD17" gate="G$1" x="12.7" y="17.78" smashed="yes" rot="R180"/>
-<instance part="PAD18" gate="G$1" x="17.78" y="12.7" smashed="yes" rot="R270"/>
 <instance part="PAD19" gate="G$1" x="20.32" y="12.7" smashed="yes" rot="R270"/>
 <instance part="PAD20" gate="G$1" x="22.86" y="12.7" smashed="yes" rot="R270"/>
 <instance part="PAD21" gate="G$1" x="25.4" y="12.7" smashed="yes" rot="R270"/>
 <instance part="PAD22" gate="G$1" x="27.94" y="12.7" smashed="yes" rot="R270"/>
-<instance part="PAD23" gate="G$1" x="30.48" y="12.7" smashed="yes" rot="R270"/>
 <instance part="PAD24" gate="G$1" x="33.02" y="12.7" smashed="yes" rot="R270"/>
 <instance part="PAD25" gate="G$1" x="35.56" y="12.7" smashed="yes" rot="R270"/>
-<instance part="PAD26" gate="G$1" x="38.1" y="12.7" smashed="yes" rot="R270"/>
 <instance part="PAD27" gate="G$1" x="40.64" y="12.7" smashed="yes" rot="R270"/>
 <instance part="PAD28" gate="G$1" x="43.18" y="12.7" smashed="yes" rot="R270"/>
-<instance part="PAD29" gate="G$1" x="45.72" y="12.7" smashed="yes" rot="R270"/>
 <instance part="PAD30" gate="G$1" x="48.26" y="12.7" smashed="yes" rot="R270"/>
 <instance part="PAD31" gate="G$1" x="50.8" y="12.7" smashed="yes" rot="R270"/>
-<instance part="PAD32" gate="G$1" x="53.34" y="12.7" smashed="yes" rot="R270"/>
-<instance part="PAD33" gate="G$1" x="55.88" y="12.7" smashed="yes" rot="R270"/>
-<instance part="PAD34" gate="G$1" x="58.42" y="12.7" smashed="yes" rot="R270"/>
-<instance part="PAD35" gate="G$1" x="63.5" y="17.78" smashed="yes"/>
-<instance part="PAD36" gate="G$1" x="63.5" y="20.32" smashed="yes"/>
-<instance part="PAD37" gate="G$1" x="63.5" y="22.86" smashed="yes"/>
-<instance part="PAD38" gate="G$1" x="63.5" y="25.4" smashed="yes"/>
-<instance part="PAD39" gate="G$1" x="63.5" y="27.94" smashed="yes"/>
-<instance part="PAD40" gate="G$1" x="63.5" y="30.48" smashed="yes"/>
-<instance part="PAD41" gate="G$1" x="63.5" y="33.02" smashed="yes"/>
-<instance part="PAD42" gate="G$1" x="63.5" y="35.56" smashed="yes"/>
-<instance part="PAD43" gate="G$1" x="63.5" y="38.1" smashed="yes"/>
-<instance part="PAD44" gate="G$1" x="63.5" y="40.64" smashed="yes"/>
-<instance part="PAD45" gate="G$1" x="63.5" y="43.18" smashed="yes"/>
-<instance part="PAD46" gate="G$1" x="63.5" y="45.72" smashed="yes"/>
-<instance part="PAD47" gate="G$1" x="63.5" y="48.26" smashed="yes"/>
-<instance part="PAD48" gate="G$1" x="63.5" y="50.8" smashed="yes"/>
-<instance part="PAD49" gate="G$1" x="63.5" y="53.34" smashed="yes"/>
-<instance part="PAD50" gate="G$1" x="63.5" y="55.88" smashed="yes"/>
-<instance part="PAD51" gate="G$1" x="63.5" y="58.42" smashed="yes"/>
 <instance part="PAD52" gate="G$1" x="58.42" y="63.5" smashed="yes" rot="R90"/>
 <instance part="PAD53" gate="G$1" x="55.88" y="63.5" smashed="yes" rot="R90"/>
-<instance part="PAD54" gate="G$1" x="53.34" y="63.5" smashed="yes" rot="R90"/>
 <instance part="PAD55" gate="G$1" x="50.8" y="63.5" smashed="yes" rot="R90"/>
 <instance part="PAD56" gate="G$1" x="48.26" y="63.5" smashed="yes" rot="R90"/>
-<instance part="PAD57" gate="G$1" x="45.72" y="63.5" smashed="yes" rot="R90"/>
 <instance part="PAD58" gate="G$1" x="43.18" y="63.5" smashed="yes" rot="R90"/>
 <instance part="PAD59" gate="G$1" x="40.64" y="63.5" smashed="yes" rot="R90"/>
-<instance part="PAD60" gate="G$1" x="38.1" y="63.5" smashed="yes" rot="R90"/>
 <instance part="PAD61" gate="G$1" x="35.56" y="63.5" smashed="yes" rot="R90"/>
 <instance part="PAD62" gate="G$1" x="33.02" y="63.5" smashed="yes" rot="R90"/>
-<instance part="PAD63" gate="G$1" x="30.48" y="63.5" smashed="yes" rot="R90"/>
 <instance part="PAD64" gate="G$1" x="27.94" y="63.5" smashed="yes" rot="R90"/>
 <instance part="PAD65" gate="G$1" x="25.4" y="63.5" smashed="yes" rot="R90"/>
-<instance part="PAD66" gate="G$1" x="22.86" y="63.5" smashed="yes" rot="R90"/>
 <instance part="PAD67" gate="G$1" x="20.32" y="63.5" smashed="yes" rot="R90"/>
 <instance part="PAD68" gate="G$1" x="17.78" y="63.5" smashed="yes" rot="R90"/>
 <instance part="PAD69" gate="G$1" x="17.78" y="68.58" smashed="yes" rot="R90"/>
